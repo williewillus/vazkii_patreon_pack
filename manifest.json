@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Vazkii Server Pack",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "kamefrede123",
   "files": [
     {
@@ -67,11 +67,6 @@
     {
       "projectID": 318872,
       "fileID": 2939810,
-      "required": true
-    },
-    {
-      "projectID": 380920,
-      "fileID": 2953261,
       "required": true
     },
     {
