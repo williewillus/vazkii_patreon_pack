@@ -1,3 +1,6 @@
-#These all require game reload!
-"Generate Wisteria Trees outside of the Wisteria Forest" = true
+
+#Common Config
+[common]
+	#If Wisteria Trees generate outside of the Wisteria Forest; Default: True
+	generateExternalWisterias = true
 
